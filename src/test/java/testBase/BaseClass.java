@@ -27,7 +27,8 @@ import org.testng.annotations.Parameters;
 
 public class BaseClass {
 	
-	public static WebDriver driver;
+	public static WebDriver driver; //for capture screenshot make it static other wise remove static
+	//public WebDriver driver;
 	public Logger logger; // log4j
 	public Properties p;
 	
@@ -52,6 +53,10 @@ public class BaseClass {
 			{
 				capabilities.setPlatform(Platform.WIN10);
 			}
+			else if(os.equalsIgnoreCase("linux"))
+			{
+				capabilities.setPlatform(Platform.LINUX);
+			}
 			else if(os.equalsIgnoreCase("mac"))
 			{
 				capabilities.setPlatform(Platform.MAC);
@@ -64,12 +69,9 @@ public class BaseClass {
 			
 			//browser
 			switch (br.toLowerCase()) {
-			case "chrome":
-				capabilities.setBrowserName("chrome"); break;
-			case "edge":
-				capabilities.setBrowserName("MicrosoftEdge"); break;
-			case "firefox":
-				capabilities.setBrowserName("firefox"); break;
+			case "chrome": capabilities.setBrowserName("chrome"); break;
+			case "edge": capabilities.setBrowserName("MicrosoftEdge"); break;
+			case "firefox": capabilities.setBrowserName("firefox"); break;
 			default: System.out.println("No matching browser"); return;
 			}
 			

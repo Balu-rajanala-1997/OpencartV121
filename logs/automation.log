@@ -436,3 +436,100 @@ Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 
 17:04:12.171 [main] INFO  testCases.TC002_LoginTest - Providing login details..
 17:04:12.842 [main] INFO  testCases.TC002_LoginTest - Confirmed MyAccount Page is Exits..
 17:04:13.656 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+22:07:58.991 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+22:08:34.343 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:08:34.727 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+22:08:35.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+22:08:35.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+22:08:37.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+22:08:37.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+22:08:37.472 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+22:08:48.424 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+22:08:48.653 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link..
+22:08:49.021 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link..
+22:08:49.024 [main] INFO  testCases.TC002_LoginTest - Providing login details..
+22:08:49.565 [main] INFO  testCases.TC002_LoginTest - Confirmed MyAccount Page is Exits..
+22:08:50.386 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+22:12:44.640 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+22:12:51.529 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:12:51.986 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+22:12:52.597 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+22:12:52.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+22:12:54.597 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+22:12:54.645 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+22:12:54.646 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+22:12:59.944 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+22:13:00.187 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link..
+22:13:00.516 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link..
+22:13:00.519 [main] INFO  testCases.TC002_LoginTest - Providing login details..
+22:13:01.031 [main] INFO  testCases.TC002_LoginTest - Confirmed MyAccount Page is Exits..
+22:13:01.856 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+11:00:01.094 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:00:01.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:00:13.236 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC_004_SearchProductTest 
+11:00:15.032 [main] INFO  testCases.TC004_SearchProductTest -  Finished TC_004_SearchProductTest 
+11:05:39.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:05:39.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:05:47.543 [main] INFO  testCases.TC004_SearchProductTest -  Starting TC004_SearchProductTest 
+11:05:48.329 [main] INFO  testCases.TC004_SearchProductTest -  Finished TC004_SearchProductTest 
+11:14:27.468 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:14:28.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:14:37.060 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:16:18.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:16:19.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:16:24.686 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:16:26.474 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:18:10.108 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:18:10.565 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:18:16.693 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:21:18.752 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:21:19.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:21:27.497 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:21:32.441 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:21:53.631 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:21:54.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:22:00.713 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:22:13.874 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:22:34.409 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:22:34.885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:22:41.152 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:23:31.040 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:23:31.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:23:37.686 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:23:49.634 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:28:56.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:28:57.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:29:07.454 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:29:09.190 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:29:55.030 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:29:55.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:30:03.733 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:30:17.831 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
+11:30:51.682 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml"
+11:30:52.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\master.xml
+
+11:30:58.589 [main] INFO  testCases.TC005_AddToCartPageTest -  Starting TC005_AddToCartPageTest 
+11:31:00.546 [main] INFO  testCases.TC005_AddToCartPageTest -  Finished TC005_AddToCartPageTest 
